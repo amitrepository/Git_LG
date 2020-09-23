@@ -72,6 +72,13 @@
 versionversionversionversionversionversionversionversionversionversion
     <packaging>jar</packaging>
     <artifactId>in28minutes-multi-module-data-impl</artifactId>
+	
+	
+	versionversionversionversionversionversion
+	
+	
+	versionversionversionversionversionversionversionversionversionversionversion
+	versionversionversionversionversionversion
     <name>${project.artifactId}</name>
     <description>Data Access Implementation.</description>    <parent>
 	    <groupId>com.in28minutes.example.layering</groupId>
