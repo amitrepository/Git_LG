@@ -1,10 +1,5 @@
 # Maven Tutorial for Beginners - with Examples In28Minutes
 
-[![Image](https://www.springboottutorial.com/images/Course-Maven-Tutorial-Manage-Java-Dependencies-in-20-Steps.png "Maven Tutorial - Manage Java Dependencies in 20 Steps")](https://www.udemy.com/course/learn-maven-java-dependency-management-in-20-steps/)
-
-## Installing Eclipse and Java
-https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
-
 ## Course Overview
 - We will use Handson Real World Examples to understand what Maven can do. 
 - We will understand how Maven makes the life of an application developer easy. 
@@ -26,9 +21,6 @@ Lets now look at the steps in this tutorial.
 - Open Command Prompt and Change directory to folder containing pom.xml
 - Run command "mvn tomcat7:run"
 - For help : user our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
-
-### Youtube Video
-https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps
 
 # 0. What is Maven?
 Defining what Maven does is very difficult. 
@@ -164,13 +156,3 @@ mvn install
 - Right Click on the file and Run as Java Application
 - You are all Set
 
-### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
-
-## Youtube Playlists - 500+ Videos
-
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
-
-## Keep Learning in28Minutes
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
